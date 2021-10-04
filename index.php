@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="estilo.css" type="text/css">
 </head>
 <body class="tela-azul">
-    Aqui vai o código HTML que fará seu site aparecer.
+    Aqui vai o código HTML que fará seu site aparecer.<br>
     Alteração 1
 </body>
 </html>
